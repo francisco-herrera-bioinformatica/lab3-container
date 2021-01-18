@@ -1,0 +1,35 @@
+Ejecutando k-mer13.cpp
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	0m2,980s
+user	0m2,830s
+sys	0m0,116s
+
+Ejecutando k-mer14.cpp
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	0m11,162s
+user	0m10,986s
+sys	0m0,129s
+
+Ejecutando k-mer13.py
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	1m32,954s
+user	1m32,624s
+sys	0m0,167s
+
+Ejecutando k-mer14.py
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	6m2,531s
+user	6m1,833s
+sys	0m0,175s
